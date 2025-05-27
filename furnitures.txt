@@ -1,0 +1,7 @@
+1	Sofa	Chair	20000.0	6	6 seat chair
+1	laptop table	chair	500.0	2	wooden table
+1	Laptop table	Table	700.0	5	Good wooden table
+2	Dinning table	table	9000.0	8	Six person can seat
+3	Sofa	Chair	20000.0	6	6 seat chair
+4	Bed	Living Room	30000.0	10	beds For Good
+5	Bed	Living Room	40000.0	10	10 chairs Available
